@@ -1,0 +1,19 @@
+1526923317578	geckodriver	INFO	geckodriver 0.19.1
+1526923317587	geckodriver	INFO	Listening on 127.0.0.1:49501
+1526923317986	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/9g/c3klgx7j76jcb8p89fkhkqgm0000gn/T/rust_mozprofile.8Gy6DVOJsXBu"
+2018-05-21 12:22:06.557 plugin-container[1105:19073] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xad3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526923327249	Marionette	INFO	Listening on port 49508
+2018-05-21 12:22:07.820 plugin-container[1106:19153] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xab3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526923328402	geckodriver	INFO	geckodriver 0.19.1
+1526923328409	geckodriver	INFO	Listening on 127.0.0.1:49520
+1526923328802	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/9g/c3klgx7j76jcb8p89fkhkqgm0000gn/T/rust_mozprofile.XTkKL7rdXNHe"
+2018-05-21 12:22:10.508 plugin-container[1109:19280] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526923330954	Marionette	INFO	Listening on port 49530
+1526923331247	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-21 12:22:11.709 plugin-container[1111:19386] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xac3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
